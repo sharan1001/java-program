@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:24-ea-13-jdk-oraclelinux8
 
 ARG ARTHAS_VERSION="3.6.8"
 ARG MIRROR=false
